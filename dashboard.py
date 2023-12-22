@@ -6,7 +6,7 @@ import pandas as pd
 import os
   
 # Specify the path
-path = '/Users/walidkebsi/Downloads/pyready_trader_go 3'
+path = '/Users/USER/Downloads/pyready_trader_go 3'
   
 # Specify the file name
 file = 'app2.py'
